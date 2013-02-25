@@ -1,0 +1,106 @@
+*I combined myRunnables and Browser
+
+*Implemented a bunch of the features had been working on last night for error prevention and loss of data.
+
+*The only synchronized methods are now in myRunnables
+
+*Changed the time in your method from 24000 to 6000.
+
+*Occassionally we will get a null pointer exception.. I believe it is coming from the ProxyList class
+ or the ZipList class so you may want take a look at the logic there. Everything seems to be working fine
+ exept for that.  Everytime it cause a thread to die so we need to fix that.
+
+*Also. I really, really dont understand your noResults() method..
+
+*Most important thing.. we are going to need a solid source of fresh proxies on the reg. This will be crucial.
+ **We may want to start looking into either the robots.txt idea or trying to change our own IP address
+   on the fly. (might be a more feaseable solution)
+
+
+*VERY IMPORTANT!!!!  If yelp does not have the zipcode in their system it will default to a close number!
+ **The zipcodes 00602, 00606, 00617, 06012 all bring back the same results.. They are all Puerto Rico Zips and
+   they go straight to 10023 which is a New York city zip.  Parsed the same 78 links, 3 times each!!
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+Jan 24 2012
+
+*******added a catch to end of getLink() method
+
+catch(FailingHttpStatusCodeException e)
+                     {
+                         System.out.println(e);
+                     }//end catch
+
+******* fixed a region in the datahandler that was encountering a nullPointerException
+while(ZipList.hasNext())
+            {
+		if(ZipList.getNext()!=null)
+                {
+                Zip tempZip = ZipList.getNext();
+                
+                if(!tempZip.isDeleted() && tempZip != null)
+		   {
+			  outFile1.println(tempZip.toString()); 
+		   }//end if
+                }//end if
+		   
+		   
+            }//end while
+
+
+
+
+
+Number of bars in zip code: 49911 is 968
+Number of pages in zip code: 49911 is 97
+
+
+
+
+
+
+Thread getPageThread = new Thread(new Runnable() {
+                             @Override
+                             public void run(){
+                                 try
+                                 {
+                                    
+                                     DatagramSocket dgramSocket = new DatagramSocket(proxyObj1.getPort());
+                                     dgramSocket.setSoTimeout(120000);
+                                     try{
+                                     page = (HtmlPage) vBrowser.getPage("http://www.yelp.com/search?find_desc=&find_loc="+zip.toString()+"&ns=1#cflt=nightlife");  
+                                     }
+                                     
+                                     catch(IOException e)
+                                     {
+                                         page=null;
+                                         System.out.println("2 mins is up buddy");
+                                         dgramSocket=null;
+                                     }
+                                     catch(FailingHttpStatusCodeException e)
+                                     {
+                                         System.out.println("internal thread error: "+e);
+                                         page=null;
+                                         dgramSocket=null;
+                                     }
+                                 }//end try
+                                 catch(IOException e)
+                                 {
+                                     page=null;
+                                     System.out.println("UH OHHHHHHHHHH@!@#$%");
+                                 }
+                             }//end run
+                             
+                         });
+                     getPageThread.start();
+                     
+                     while(endTime-begTime<120000 && page==null)
+                     {
+                         endTime = getTime();                    
+                     
+                     }  
+                     getPageThread.interrupt();
+                     getPageThread=null;

@@ -1,0 +1,12 @@
+Missing Zip Codes:
+jeff city,Missouri
+joplin,Missouri
+kansas city,Missouri
+kirksville,Missouri
+lake of the ozarks,Missouri
+springfield,Missouri
+st joseph,Missouri
+st louis,Missouri
+Zip codes with no Results
+
+Missing Links;

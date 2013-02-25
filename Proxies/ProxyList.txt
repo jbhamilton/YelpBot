@@ -1,0 +1,32 @@
+91.193.237.209 3128		12587	high-anonymous	Russian Federation
+74.95.168.169 6515		21388	anonymous	United States (NY, Sea Cliff)
+50.57.152.132 80		2820	high-anonymous	United States (TX, San Antonio)
+89.45.4.249 8181		3298	transparent proxy	Romania (Constanta)
+92.53.39.129 3128		2733	transparent	Macedonia (Skopje)
+61.147.67.61 3128		0	transparent proxy	China (Beijing)
+173.59.48.13 3128		0	transparent proxy	United States (DE, Bear)
+27.2.0.25 808		6125	high-anonymous	Vietnam
+41.75.111.162 8080		5803	transparent proxy	South Africa
+1.193.59.94 8080		3019	transparent	China
+49.212.5.106 8080		0	anonymous	Japan
+58.218.172.194 1337		0	high-anonymous	China (Beijing)
+24.228.207.166 6515		4364	anonymous	United States (NY, Bronx)
+24.251.77.199 6515		0	anonymous proxy	USA (AZ, Phoenix)
+146.83.193.75 3128		25718	transparent	Chile (Santiago)
+151.13.151.116 8080		14198	transparent proxy	Italy
+151.13.206.163 6515	11.79	485	anonymous proxy	Italy
+159.148.213.226 3128	1.21	21639	transparent	Latvia (Riga)
+178.63.26.42 443	1.16	4802	anonymous	Germany
+69.141.241.119 6515	1.89	14396	anonymous proxy	US (NJ, Long Branch)
+24.58.175.174 8085	0	0	high-anonymous	United States (NY, Syracuse)
+204.188.215.35 3128	0	0	transparent proxy	US (MT, Missoula)
+174.60.69.69 6515	2.46	13726	anonymous	United States (PA, Harrisburg)
+64.85.181.46 8080	1	27008	transparent	United States (NC, Bryson City)
+200.123.164.133 80	5.06	9119	transparent proxy	Argentina (Buenos Aires)
+200.61.189.106 80	0.53	22010	transparent	Argentina (Buenos Aires)
+200.61.189.107 8080	0.57	21682	transparent proxy	Argentina (Buenos Aires)
+23.19.68.66 3128	0.63	28180	high-anonymous	United States (AZ, Phoenix)
+216.59.129.40 3128	0.59	33903	transparent	United States (IL, Chicago)
+12.170.91.242 3128	0.84	26358	transparent	United States (MI, Wixom)
+174.139.204.221 80	0.58	21031	transparent proxy	United States (SC, Spartanburg)
+184.170.245.164 3128	1.24	23805	transparent

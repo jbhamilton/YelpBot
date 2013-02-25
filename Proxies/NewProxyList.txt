@@ -1,0 +1,322 @@
+66.227.136.12 	6515 	anonymous 	18.01.12 20:07 	5/5 	55,91 KB/s 	United States 	check
+67.149.148.250 	36081 	anonymous 	18.01.12 18:43 	4/5 	62,09 KB/s 	United States 	check
+67.168.248.163 	6515 	anonymous 	18.01.12 20:09 	5/5 	45,50 KB/s 	United States 	check
+67.171.219.164 	6515 	anonymous 	18.01.12 20:09 	4/5 	39,61 KB/s 	United States 	check
+68.103.142.94 	6515 	anonymous 	18.01.12 20:13 	2/5 	55,43 KB/s 	United States 	check
+68.234.110.135 	36081 	anonymous 	18.01.12 19:04 	1/5 	21,32 KB/s 	United States 	check
+69.138.40.86 	36081 	anonymous 	18.01.12 19:05 	5/5 	68,64 KB/s 	United States 	check
+69.181.173.7 	6515 	anonymous 	18.01.12 20:20 	3/5 	27,45 KB/s 	Unknown 	check
+69.181.77.73 	6515 	anonymous 	18.01.12 20:20 	3/5 	48,37 KB/s 	Unknown 	check
+69.246.180.58 	36081 	anonymous 	18.01.12 18:44 	5/5 	51,47 KB/s 	United States 	check
+70.180.160.143 	6515 	anonymous 	18.01.12 20:22 	1/5 	35,06 KB/s 	United States 	check
+70.187.8.169 	6515 	anonymous 	18.01.12 20:22 	4/5 	54,88 KB/s 	United States 	check
+70.88.216.114 	6515 	anonymous 	18.01.12 20:23 	3/5 	72,47 KB/s 	United States 	check
+70.88.216.115 	6515 	anonymous 	18.01.12 20:23 	5/5 	65,03 KB/s 	United States 	check
+71.56.21.251 	36081 	anonymous 	18.01.12 19:05 	1/5 	67,89 KB/s 	Unknown 	check
+71.62.145.76 	6515 	anonymous 	18.01.12 20:28 	4/5 	75,26 KB/s 	Unknown 	check
+71.62.2.167 	6515 	anonymous 	18.01.12 20:28 	5/5 	62,97 KB/s 	Unknown 	check
+71.82.58.197 	6515 	anonymous 	18.01.12 20:30 	4/5 	60,67 KB/s 	United States 	check
+72.241.213.227 	6515 	anonymous 	18.01.12 20:32 	1/5 	70,12 KB/s 	United States 	check
+74.90.44.168 	6515 	anonymous 	18.01.12 20:34 	5/5 	52,43 KB/s 	Unknown 	check
+75.138.6.78 	6515 	anonymous 	18.01.12 20:35 	5/5 	60,37 KB/s 	United States 	check
+75.191.140.245 	36081 	anonymous 	18.01.12 18:45 	2/5 	34,35 KB/s 	United States 	check
+75.64.180.164 	6515 	anonymous 	18.01.12 20:37 	5/5 	63,71 KB/s 	United States 	check
+75.67.90.166 	6515 	anonymous 	18.01.12 20:38 	5/5 	75,60 KB/s 	United States 	check
+75.73.37.13 	6515 	anonymous 	18.01.12 20:39 	5/5 	63,71 KB/s 	United States 	check
+76.100.220.174 	6515 	anonymous 	18.01.12 20:41 	4/5 	79,56 KB/s 	Unknown 	check
+76.111.172.116 	6515 	anonymous 	18.01.12 20:42 	2/5 	77,90 KB/s 	Unknown 	check
+76.23.118.85 	6515 	anonymous 	18.01.12 20:46 	5/5 	64,66 KB/s 	United States 	check
+76.242.102.194 	6515 	anonymous 	18.01.12 20:47 	5/5 	38,88 KB/s 	United States 	check
+76.26.205.199 	6515 	anonymous 	18.01.12 20:47 	5/5 	64,10 KB/s 	United States 	check
+76.26.209.118 	6515 	anonymous 	18.01.12 20:47 	1/5 	55,16 KB/s 	United States 	check
+81.150.206.165 	6515 	anonymous 	18.01.12 20:51 	3/5 	51,35 KB/s 	United Kingdom 	check
+81.208.34.12 	6515 	anonymous 	18.01.12 20:51 	3/5 	117,40 KB/s 	Italy 	check
+84.112.128.107 	6515 	anonymous 	18.01.12 20:52 	5/5 	208,20 KB/s 	Austria 	check
+88.208.203.23 	6515 	anonymous 	18.01.12 20:57 	1/5 	251,62 KB/s 	United Kingdom 	check
+88.208.203.24 	6515 	anonymous 	18.01.12 20:58 	2/5 	267,44 KB/s 	United Kingdom 	check
+88.247.89.198 	8081 	anonymous 	18.01.12 20:58 	3/5 	1.754,75 KB/s 	Unknown 	check
+91.64.61.83 	80 	anonymous 	18.01.12 21:00 	4/5 	360,84 KB/s 	Unknown 	check
+96.24.249.253 	8085 	anonymous 	18.01.12 21:02 	4/5 	39,72 KB/s 	Iran, Islamic Republic Of 	check
+96.27.214.19 	6515 	anonymous 	18.01.12 21:03 	2/5 	52,93 KB/s 	Unknown 	check
+96.56.69.70 	6515 	anonymous 	18.01.12 21:03 	3/5 	68,22 KB/s 	Unknown 	check
+97.64.161.199 	6515 	anonymous 	18.01.12 21:06 	1/5 	70,55 KB/s 	Unknown 	check
+97.64.161.200 	6515 	anonymous 	18.01.12 21:06 	3/5 	69,05 KB/s 	Unknown 	check
+97.89.86.14 	6515 	anonymous 	18.01.12 21:07 	2/5 	59,49 KB/s 	Unknown 	check
+97.92.143.133 	6515 	anonymous 	18.01.12 21:07 	3/5 	43,86 KB/s 	Unknown 	check
+98.195.103.100 	6515 	anonymous 	18.01.12 21:10 	1/5 	56,33 KB/s 	Unknown 	check
+98.197.174.102 	6515 	anonymous 	18.01.12 21:11 	5/5 	56,91 KB/s 	Unknown 	check
+98.202.35.139 	6515 	anonymous 	18.01.12 21:12 	1/5 	42,67 KB/s 	Unknown 	check
+98.214.77.168 	6515 	anonymous 	18.01.12 21:12 	2/5 	64,11 KB/s 	United States 	check
+98.229.181.22 	6515 	anonymous 	18.01.12 21:13 	5/5 	66,25 KB/s 	Unknown 	check
+98.235.217.204 	6515 	anonymous 	18.01.12 21:14 	1/5 	70,92 KB/s 	Unknown 	check
+109.191.240.175 	3128 	elite 	19.01.12 10:06 	4/5 	46,97 KB/s 	Unknown 	check
+109.193.46.16 	80 	elite 	18.01.12 17:26 	2/5 	273,60 KB/s 	Unknown 	check
+109.230.213.40 	3128 	elite 	19.01.12 08:37 	1/5 	593,00 KB/s 	Netherlands 	check
+110.138.178.166 	80 	elite 	18.01.12 19:10 	1/5 	5.394,24 KB/s 	Unknown 	check
+110.167.199.222 	6666 	elite 	19.01.12 04:02 	1/5 	21,94 KB/s 	Unknown 	check
+110.54.252.50 	80 	elite 	19.01.12 02:38 	5/5 	31,68 KB/s 	Unknown 	check
+112.197.8.24 	808 	elite 	18.01.12 17:04 	4/5 	26,85 KB/s 	Viet Nam 	check
+112.197.8.24 	808 	elite 	19.01.12 11:01 	2/5 	19,23 KB/s 	Viet Nam 	check
+112.197.8.7 	808 	elite 	18.01.12 17:21 	5/5 	25,73 KB/s 	Viet Nam 	check
+112.197.8.7 	808 	elite 	19.01.12 11:06 	3/5 	29,38 KB/s 	Viet Nam 	check
+112.216.29.245 	80 	elite 	18.01.12 17:44 	2/5 	24,17 KB/s 	Unknown 	check
+112.216.29.245 	80 	elite 	18.01.12 19:11 	5/5 	30,20 KB/s 	Unknown 	check
+113.106.194.221 	80 	elite 	19.01.12 05:16 	3/5 	23,37 KB/s 	China 	check
+113.106.194.221 	81 	elite 	19.01.12 08:30 	3/5 	23,30 KB/s 	China 	check
+113.106.194.221 	82 	elite 	19.01.12 11:08 	1/5 	23,31 KB/s 	China 	check
+113.106.194.221 	83 	elite 	19.01.12 10:53 	2/5 	28,81 KB/s 	China 	check
+113.106.194.221 	84 	elite 	19.01.12 08:41 	5/5 	25,36 KB/s 	China 	check
+113.106.194.221 	85 	elite 	19.01.12 06:58 	4/5 	26,90 KB/s 	China 	check
+113.106.194.221 	86 	elite 	19.01.12 02:56 	5/5 	24,00 KB/s 	China 	check
+114.134.193.55 	8080 	elite 	19.01.12 04:54 	3/5 	31,54 KB/s 	Australia 	check
+116.247.78.34 	80 	elite 	19.01.12 10:05 	2/5 	14,49 KB/s 	Unknown 	check
+117.79.235.90 	80 	elite 	19.01.12 07:35 	2/5 	35,79 KB/s 	China 	check
+117.79.235.94 	80 	elite 	19.01.12 07:55 	1/5 	21,52 KB/s 	China 	check
+118.133.108.212 	9415 	elite 	19.01.12 06:13 	3/5 	20,61 KB/s 	Unknown 	check
+118.174.131.94 	3128 	elite 	18.01.12 18:27 	1/5 	29,42 KB/s 	Unknown 	check
+118.195.132.49 	80 	elite 	19.01.12 01:59 	5/5 	22,39 KB/s 	Unknown 	check
+119.246.32.204 	9415 	elite 	19.01.12 03:01 	4/5 	28,76 KB/s 	Hong Kong 	check
+120.203.1.250 	3128 	elite 	19.01.12 06:26 	1/5 	30,93 KB/s 	China 	check
+120.88.10.168 	8123 	elite 	19.01.12 05:32 	3/5 	14,95 KB/s 	Unknown 	check
+121.172.243.215 	8080 	elite 	19.01.12 03:36 	5/5 	30,88 KB/s 	Unknown 	check
+122.248.194.9 	80 	elite 	18.01.12 15:13 	5/5 	47,50 KB/s 	Unknown 	check
+123.62.6.35 	80 	elite 	19.01.12 06:08 	2/5 	28,09 KB/s 	Unknown 	check
+125.88.125.201 	8083 	elite 	18.01.12 23:05 	4/5 	22,01 KB/s 	Unknown 	check
+125.89.161.189 	8080 	elite 	18.01.12 23:06 	1/5 	21,30 KB/s 	Unknown 	check
+129.206.218.32 	808 	elite 	19.01.12 03:04 	1/5 	575,66 KB/s 	Germany 	check
+14.136.87.83 	8909 	elite 	18.01.12 13:35 	5/5 	22,94 KB/s 	United States 	check
+141.105.80.82 	80 	elite 	19.01.12 04:11 	5/5 	130,74 KB/s 	Lebanon 	check
+151.1.216.176 	80 	elite 	19.01.12 03:27 	4/5 	261,80 KB/s 	European Union 	check
+157.55.186.188 	80 	elite 	19.01.12 04:23 	1/5 	71,78 KB/s 	United States 	check
+159.224.254.196 	3128 	elite 	19.01.12 08:40 	5/5 	203,19 KB/s 	Unknown 	check
+162.42.216.93 	80 	elite 	19.01.12 03:28 	4/5 	67,46 KB/s 	United States 	check
+162.42.216.97 	80 	elite 	19.01.12 03:29 	4/5 	67,17 KB/s 	United States 	check
+162.42.216.99 	80 	elite 	19.01.12 03:28 	5/5 	59,68 KB/s 	United States 	check
+173.19.182.218 	2479 	elite 	19.01.12 04:41 	2/5 	59,77 KB/s 	United States 	check
+175.101.62.156 	808 	elite 	18.01.12 18:31 	1/5 	46,51 KB/s 	India 	check
+175.139.169.245 	80 	elite 	18.01.12 16:56 	5/5 	33,73 KB/s 	Unknown 	check
+176.28.79.44 	80 	elite 	18.01.12 23:11 	5/5 	2.307,71 KB/s 	Unknown 	check
+176.31.156.209 	80 	elite 	19.01.12 03:22 	2/5 	474,94 KB/s 	Unknown 	check
+176.31.248.146 	80 	elite 	18.01.12 15:31 	2/5 	420,91 KB/s 	Unknown 	check
+176.9.1.72 	80 	elite 	19.01.12 03:27 	5/5 	513,87 KB/s 	Unknown 	check
+176.9.219.38 	808 	elite 	18.01.12 23:06 	2/5 	168,52 KB/s 	Unknown 	check
+178.46.128.59 	3128 	elite 	19.01.12 03:47 	2/5 	64,97 KB/s 	Russian Federation 	check
+183.181.168.204 	80 	elite 	19.01.12 05:35 	4/5 	40,13 KB/s 	Unknown 	check
+183.82.96.106 	8080 	elite 	19.01.12 08:42 	5/5 	61,90 KB/s 	Unknown 	check
+184.160.20.75 	6588 	elite 	18.01.12 18:32 	2/5 	36,72 KB/s 	Unknown 	check
+184.160.20.75 	6588 	elite 	19.01.12 04:46 	3/5 	54,59 KB/s 	Unknown 	check
+184.171.175.14 	808 	elite 	19.01.12 08:38 	4/5 	69,26 KB/s 	United States 	check
+184.22.3.88 	8080 	elite 	19.01.12 03:22 	1/5 	54,29 KB/s 	Unknown 	check
+186.238.48.8 	80 	elite 	18.01.12 17:05 	3/5 	49,32 KB/s 	Brazil 	check
+187.58.200.169 	80 	elite 	19.01.12 04:56 	2/5 	62,30 KB/s 	Brazil 	check
+187.58.200.182 	80 	elite 	19.01.12 04:57 	5/5 	63,04 KB/s 	Brazil 	check
+188.120.246.84 	80 	elite 	19.01.12 05:41 	1/5 	194,42 KB/s 	Unknown 	check
+188.227.222.11 	808 	elite 	19.01.12 05:35 	1/5 	60,75 KB/s 	Unknown 	check
+188.94.163.68 	3128 	elite 	19.01.12 05:44 	4/5 	94,59 KB/s 	Unknown 	check
+190.144.147.198 	80 	elite 	19.01.12 04:56 	2/5 	67,36 KB/s 	Unknown 	check
+190.3.106.166 	80 	elite 	18.01.12 16:52 	5/5 	27,95 KB/s 	Unknown 	check
+190.3.106.166 	80 	elite 	19.01.12 10:57 	5/5 	35,08 KB/s 	Unknown 	check
+193.138.185.51 	3128 	elite 	19.01.12 07:00 	5/5 	200,03 KB/s 	European Union 	check
+194.170.35.112 	80 	elite 	18.01.12 19:33 	5/5 	2.237,53 KB/s 	United Arab Emirates 	check
+194.226.154.8 	3128 	elite 	19.01.12 05:28 	5/5 	120,16 KB/s 	Russian Federation 	check
+194.51.78.102 	80 	elite 	19.01.12 06:57 	4/5 	314,82 KB/s 	France 	check
+195.135.214.226 	8080 	elite 	19.01.12 05:05 	1/5 	82,49 KB/s 	European Union 	check
+195.138.88.105 	3128 	elite 	18.01.12 18:21 	2/5 	15,98 KB/s 	Ukraine 	check
+195.16.49.214 	80 	elite 	19.01.12 07:46 	3/5 	71,41 KB/s 	Russian Federation 	check
+195.222.83.75 	3128 	elite 	19.01.12 10:58 	1/5 	224,23 KB/s 	Belarus 	check
+195.244.196.248 	8118 	elite 	18.01.12 18:33 	3/5 	186,02 KB/s 	Gibraltar 	check
+195.82.150.19 	3128 	elite 	19.01.12 10:41 	2/5 	195,73 KB/s 	Ukraine 	check
+196.202.200.135 	8080 	elite 	19.01.12 02:39 	5/5 	1.668,04 KB/s 	Kenya 	check
+198.164.129.13 	80 	elite 	19.01.12 05:15 	5/5 	2.034,43 KB/s 	Canada 	check
+198.235.15.70 	80 	elite 	19.01.12 02:10 	1/5 	108,10 KB/s 	Canada 	check
+2.107.73.206 	8080 	elite 	19.01.12 02:04 	2/5 	127,55 KB/s 	Unknown 	check
+200.11.76.166 	8118 	elite 	19.01.12 10:36 	4/5 	48,58 KB/s 	Netherlands 	check
+200.113.109.75 	81 	elite 	19.01.12 06:33 	5/5 	32,75 KB/s 	Chile 	check
+200.198.116.61 	3128 	elite 	18.01.12 16:42 	2/5 	45,44 KB/s 	Brazil 	check
+200.214.132.99 	6588 	elite 	18.01.12 18:34 	1/5 	26,49 KB/s 	Brazil 	check
+201.65.32.131 	80 	elite 	19.01.12 05:20 	2/5 	36,84 KB/s 	Unknown 	check
+202.116.62.218 	808 	elite 	18.01.12 16:47 	3/5 	26,36 KB/s 	China 	check
+202.185.32.12 	8080 	elite 	18.01.12 17:16 	5/5 	38,96 KB/s 	Malaysia 	check
+202.185.32.12 	8080 	elite 	19.01.12 11:06 	1/5 	29,85 KB/s 	Malaysia 	check
+202.23.159.52 	3124 	elite 	19.01.12 09:07 	4/5 	49,47 KB/s 	Japan 	check
+202.53.225.163 	80 	elite 	18.01.12 23:14 	5/5 	38,52 KB/s 	Indonesia 	check
+202.67.13.82 	3128 	elite 	19.01.12 03:18 	2/5 	62,24 KB/s 	Indonesia 	check
+202.67.13.86 	8080 	elite 	18.01.12 17:17 	2/5 	62,00 KB/s 	Indonesia 	check
+202.75.53.218 	9090 	elite 	18.01.12 17:18 	1/5 	50,43 KB/s 	Malaysia 	check
+202.85.215.20 	80 	elite 	19.01.12 05:24 	5/5 	32,46 KB/s 	China 	check
+203.156.192.69 	808 	elite 	19.01.12 09:03 	1/5 	21,25 KB/s 	China 	check
+203.157.159.2 	3128 	elite 	19.01.12 11:02 	1/5 	19,79 KB/s 	Thailand 	check
+203.37.28.10 	80 	elite 	19.01.12 08:30 	3/5 	21,77 KB/s 	Australia 	check
+206.53.155.129 	3128 	elite 	19.01.12 04:37 	5/5 	69,53 KB/s 	United States 	check
+208.64.176.157 	80 	elite 	19.01.12 09:08 	3/5 	102,56 KB/s 	Unknown 	check
+110.234.12.196 	80 	anonymous 	18.01.12 19:10 	5/5 	63,52 KB/s 	Unknown 	check
+116.248.41.72 	808 	anonymous 	18.01.12 18:52 	4/5 	20,19 KB/s 	Unknown 	check
+124.247.205.220 	3128 	anonymous 	18.01.12 19:16 	3/5 	54,26 KB/s 	Unknown 	check
+173.18.188.243 	6515 	anonymous 	18.01.12 19:17 	3/5 	41,78 KB/s 	United States 	check
+173.217.167.157 	36081 	anonymous 	18.01.12 18:57 	5/5 	41,92 KB/s 	Unknown 	check
+174.60.131.134 	6515 	anonymous 	18.01.12 19:25 	1/5 	72,58 KB/s 	Unknown 	check
+174.66.11.126 	6515 	anonymous 	18.01.12 19:26 	2/5 	75,63 KB/s 	Unknown 	check
+176.9.22.77 	8080 	anonymous 	18.01.12 13:31 	1/5 	500,77 KB/s 	Unknown 	check
+188.192.8.221 	6515 	anonymous 	18.01.12 19:31 	1/5 	253,88 KB/s 	Unknown 	check
+195.50.151.43 	6515 	anonymous 	18.01.12 19:34 	1/5 	271,05 KB/s 	Germany 	check
+210.182.240.28 	80 	anonymous 	18.01.12 19:38 	1/5 	30,69 KB/s 	Korea, Republic Of 	check
+210.32.137.34 	9797 	anonymous 	18.01.12 19:38 	5/5 	37,30 KB/s 	China 	check
+212.227.80.129 	6515 	anonymous 	18.01.12 19:39 	5/5 	532,99 KB/s 	United Kingdom 	check
+216.115.145.49 	6515 	anonymous 	18.01.12 19:40 	4/5 	42,95 KB/s 	United States 	check
+221.203.79.101 	80 	anonymous 	18.01.12 19:45 	4/5 	32,28 KB/s 	China 	check
+221.203.79.101 	443 	anonymous 	18.01.12 19:44 	4/5 	29,33 KB/s 	China 	check
+24.121.164.39 	6515 	anonymous 	18.01.12 19:47 	4/5 	42,36 KB/s 	Unknown 	check
+24.147.20.139 	6515 	anonymous 	18.01.12 19:49 	5/5 	77,66 KB/s 	United States 	check
+24.171.78.211 	6515 	anonymous 	18.01.12 19:50 	5/5 	66,58 KB/s 	United States 	check
+24.34.23.8 	6515 	anonymous 	18.01.12 19:53 	1/5 	67,22 KB/s 	United States 	check
+24.34.72.82 	6515 	anonymous 	18.01.12 19:54 	5/5 	65,84 KB/s 	United States 	check
+24.74.203.94 	36081 	anonymous 	18.01.12 18:38 	5/5 	47,08 KB/s 	United States 	check
+24.99.23.79 	6515 	anonymous 	18.01.12 19:56 	3/5 	55,89 KB/s 	United States 	check
+46.245.228.180 	80 	anonymous 	18.01.12 19:58 	5/5 	240,25 KB/s 	Unknown 	check
+58.215.172.203 	80 	anonymous 	18.01.12 19:58 	5/5 	23,46 KB/s 	China 	check
+64.121.184.93 	6515 	anonymous 	18.01.12 20:02 	5/5 	72,76 KB/s 	United States 	check
+64.183.250.184 	80 	anonymous 	18.01.12 20:03 	1/5 	75,00 KB/s 	Unknown 	check
+66.140.59.4 	8085 	anonymous 	18.01.12 20:06 	2/5 	43,37 KB/s 	United States 	check
+208.89.208.57 	8080 	elite 	18.01.12 14:25 	4/5 	79,83 KB/s 	Unknown 	check
+208.89.208.57 	8080 	elite 	19.01.12 11:03 	4/5 	89,85 KB/s 	Unknown 	check
+208.89.208.62 	8080 	elite 	19.01.12 10:05 	5/5 	94,69 KB/s 	Unknown 	check
+208.92.249.106 	443 	elite 	19.01.12 03:04 	5/5 	2.592,33 KB/s 	Unknown 	check
+208.92.249.111 	443 	elite 	19.01.12 02:59 	5/5 	2.592,33 KB/s 	Unknown 	check
+209.62.12.130 	8118 	elite 	18.01.12 19:00 	1/5 	297,51 KB/s 	United States 	check
+209.62.12.130 	8118 	elite 	19.01.12 06:12 	3/5 	329,08 KB/s 	United States 	check
+209.97.203.60 	8080 	elite 	19.01.12 04:24 	5/5 	62,22 KB/s 	United States 	check
+209.97.203.64 	8080 	elite 	19.01.12 04:26 	5/5 	67,54 KB/s 	United States 	check
+210.21.243.20 	808 	elite 	19.01.12 02:56 	2/5 	1.451,57 KB/s 	China 	check
+210.22.153.98 	3128 	elite 	19.01.12 03:42 	3/5 	19,40 KB/s 	China 	check
+210.51.23.136 	8118 	elite 	19.01.12 06:57 	5/5 	28,65 KB/s 	China 	check
+211.140.189.244 	80 	elite 	19.01.12 06:25 	2/5 	22,43 KB/s 	China 	check
+211.157.227.84 	81 	elite 	18.01.12 18:35 	1/5 	21,24 KB/s 	China 	check
+211.160.169.102 	80 	elite 	18.01.12 17:05 	1/5 	21,09 KB/s 	China 	check
+212.156.58.182 	8080 	elite 	19.01.12 03:29 	5/5 	2.587,39 KB/s 	Turkey 	check
+212.23.70.186 	3128 	elite 	19.01.12 05:52 	5/5 	110,96 KB/s 	Russian Federation 	check
+212.45.5.172 	3128 	elite 	19.01.12 05:05 	2/5 	152,95 KB/s 	Russian Federation 	check
+212.60.66.201 	3128 	elite 	19.01.12 02:36 	4/5 	103,04 KB/s 	Gambia 	check
+212.88.118.181 	8080 	elite 	19.01.12 07:54 	5/5 	2.322,38 KB/s 	Uganda 	check
+213.186.122.27 	3128 	elite 	19.01.12 02:14 	1/5 	146,90 KB/s 	Ukraine 	check
+213.186.46.43 	3128 	elite 	19.01.12 05:38 	5/5 	552,01 KB/s 	France 	check
+213.186.46.43 	5050 	elite 	19.01.12 05:16 	4/5 	478,64 KB/s 	France 	check
+213.203.196.230 	8008 	elite 	18.01.12 17:06 	5/5 	2.886,66 KB/s 	Germany 	check
+213.27.233.181 	80 	elite 	19.01.12 09:04 	4/5 	161,12 KB/s 	Spain 	check
+217.117.112.173 	3128 	elite 	19.01.12 11:02 	2/5 	174,90 KB/s 	Russian Federation 	check
+217.162.41.229 	8118 	elite 	19.01.12 06:27 	1/5 	59,54 KB/s 	Switzerland 	check
+217.169.242.139 	8123 	elite 	18.01.12 13:47 	5/5 	2.176,42 KB/s 	France 	check
+218.242.245.66 	8000 	elite 	18.01.12 18:36 	1/5 	17,91 KB/s 	China 	check
+218.91.154.201 	808 	elite 	19.01.12 11:03 	1/5 	21,71 KB/s 	China 	check
+219.95.233.114 	8080 	elite 	19.01.12 05:39 	5/5 	29,89 KB/s 	Malaysia 	check
+220.113.15.21 	8080 	elite 	19.01.12 05:27 	1/5 	15,85 KB/s 	China 	check
+220.234.18.150 	8909 	elite 	19.01.12 06:06 	1/5 	17,10 KB/s 	China 	check
+221.130.162.48 	80 	elite 	19.01.12 01:10 	5/5 	34,81 KB/s 	China 	check
+221.130.162.73 	80 	elite 	19.01.12 06:19 	5/5 	34,44 KB/s 	China 	check
+221.134.198.15 	80 	elite 	19.01.12 06:58 	5/5 	45,95 KB/s 	Unknown 	check
+221.181.192.25 	80 	elite 	18.01.12 17:12 	2/5 	20,34 KB/s 	China 	check
+221.181.192.25 	80 	elite 	19.01.12 05:00 	5/5 	22,61 KB/s 	China 	check
+222.171.60.156 	808 	elite 	19.01.12 01:45 	4/5 	21,47 KB/s 	China 	check
+222.238.156.245 	80 	elite 	18.01.12 23:15 	2/5 	30,51 KB/s 	Korea, Republic Of 	check
+222.88.95.66 	8080 	elite 	18.01.12 19:45 	5/5 	1.516,39 KB/s 	China 	check
+222.88.95.77 	80 	elite 	18.01.12 15:33 	2/5 	25,21 KB/s 	China 	check
+222.88.95.77 	80 	elite 	19.01.12 00:55 	5/5 	2.261,06 KB/s 	China 	check
+222.88.95.77 	8080 	elite 	19.01.12 11:21 	3/5 	1.927,83 KB/s 	China 	check
+223.4.21.108 	80 	elite 	19.01.12 08:41 	4/5 	22,30 KB/s 	Unknown 	check
+27.2.0.27 	808 	elite 	19.01.12 11:00 	5/5 	25,43 KB/s 	Unknown 	check
+27.2.0.37 	808 	elite 	19.01.12 07:57 	2/5 	30,11 KB/s 	Unknown 	check
+27.2.0.47 	808 	elite 	18.01.12 18:39 	1/5 	30,32 KB/s 	Unknown 	check
+27.2.0.49 	808 	elite 	19.01.12 05:15 	2/5 	19,92 KB/s 	Unknown 	check
+27.2.0.59 	808 	elite 	19.01.12 06:01 	2/5 	26,06 KB/s 	Unknown 	check
+38.97.225.212 	80 	elite 	19.01.12 11:01 	1/5 	89,18 KB/s 	United States 	check
+41.158.128.180 	80 	elite 	19.01.12 03:57 	5/5 	69,22 KB/s 	Unknown 	check
+42.83.47.5 	8080 	elite 	19.01.12 06:19 	3/5 	30,38 KB/s 	Unknown 	check
+46.137.117.214 	80 	elite 	18.01.12 17:18 	5/5 	222,87 KB/s 	Unknown 	check
+46.137.117.214 	80 	elite 	19.01.12 11:06 	5/5 	202,69 KB/s 	Unknown 	check
+46.181.220.99 	3128 	elite 	19.01.12 04:46 	2/5 	120,33 KB/s 	Unknown 	check
+46.47.199.146 	3128 	elite 	18.01.12 18:23 	2/5 	20,24 KB/s 	Unknown 	check
+46.47.199.146 	3128 	elite 	19.01.12 00:54 	2/5 	106,62 KB/s 	Unknown 	check
+50.19.223.15 	80 	elite 	19.01.12 06:08 	1/5 	120,48 KB/s 	Unknown 	check
+50.57.28.248 	80 	elite 	19.01.12 03:27 	5/5 	105,80 KB/s 	Unknown 	check
+58.181.248.4 	80 	elite 	19.01.12 10:59 	1/5 	40,47 KB/s 	Unknown 	check
+59.124.233.148 	3128 	elite 	19.01.12 10:42 	1/5 	26,74 KB/s 	Unknown 	check
+59.99.227.96 	6588 	elite 	19.01.12 06:29 	1/5 	23,26 KB/s 	India 	check
+59.99.227.98 	6588 	elite 	19.01.12 04:15 	1/5 	22,96 KB/s 	India 	check
+60.174.155.18 	808 	elite 	19.01.12 03:24 	1/5 	15,98 KB/s 	China 	check
+60.209.5.13 	808 	elite 	19.01.12 05:14 	2/5 	21,53 KB/s 	China 	check
+61.135.255.137 	80 	elite 	18.01.12 18:41 	4/5 	25,96 KB/s 	China 	check
+61.135.255.137 	80 	elite 	19.01.12 10:39 	3/5 	30,46 KB/s 	China 	check
+61.54.26.43 	80 	elite 	19.01.12 11:20 	3/5 	3.701,37 KB/s 	China 	check
+61.54.26.43 	8080 	elite 	18.01.12 20:00 	5/5 	2.844,52 KB/s 	China 	check
+61.54.26.44 	8080 	elite 	18.01.12 20:00 	3/5 	29,69 KB/s 	China 	check
+64.237.59.148 	80 	elite 	19.01.12 02:25 	1/5 	124,59 KB/s 	United States 	check
+64.250.87.167 	8123 	elite 	19.01.12 04:00 	5/5 	2.962,88 KB/s 	United States 	check
+67.158.59.64 	1728 	elite 	18.01.12 17:19 	5/5 	51,79 KB/s 	United States 	check
+67.158.59.64 	1728 	elite 	19.01.12 11:06 	4/5 	53,46 KB/s 	United States 	check
+67.172.22.28 	8088 	elite 	18.01.12 23:08 	5/5 	75,76 KB/s 	United States 	check
+67.193.20.186 	8123 	elite 	19.01.12 03:49 	4/5 	2.110,32 KB/s 	United States 	check
+67.20.111.73 	80 	elite 	18.01.12 15:05 	5/5 	52,61 KB/s 	United States 	check
+67.20.111.73 	80 	elite 	18.01.12 23:09 	5/5 	56,85 KB/s 	United States 	check
+67.205.58.215 	80 	elite 	19.01.12 05:28 	4/5 	74,55 KB/s 	United States 	check
+68.197.167.24 	8123 	elite 	18.01.12 18:44 	5/5 	2.308,26 KB/s 	United States 	check
+69.252.120.90 	80 	elite 	19.01.12 02:53 	1/5 	77,71 KB/s 	United States 	check
+72.159.131.3 	553 	elite 	19.01.12 03:22 	3/5 	1.009,60 KB/s 	United States 	check
+72.159.131.3 	554 	elite 	19.01.12 03:04 	2/5 	1.440,23 KB/s 	United States 	check
+74.196.232.127 	8123 	elite 	19.01.12 03:13 	5/5 	2.760,86 KB/s 	Unknown 	check
+74.196.50.32 	808 	elite 	19.01.12 02:58 	3/5 	70,92 KB/s 	Unknown 	check
+76.164.223.77 	808 	elite 	18.01.12 23:09 	5/5 	55,84 KB/s 	United States 	check
+76.74.239.9 	8090 	elite 	19.01.12 08:34 	1/5 	80,60 KB/s 	United States 	check
+77.243.113.148 	808 	elite 	19.01.12 11:17 	1/5 	42,15 KB/s 	Unknown 	check
+77.248.14.178 	8118 	elite 	19.01.12 01:38 	2/5 	531,38 KB/s 	Netherlands 	check
+78.139.74.103 	8080 	elite 	19.01.12 05:30 	5/5 	96,22 KB/s 	Germany 	check
+78.31.200.200 	443 	elite 	19.01.12 10:55 	1/5 	173,19 KB/s 	Russian Federation 	check
+78.47.141.227 	808 	elite 	18.01.12 19:05 	5/5 	401,56 KB/s 	Germany 	check
+79.133.68.121 	3128 	elite 	19.01.12 03:53 	2/5 	39,18 KB/s 	Unknown 	check
+79.170.50.25 	80 	elite 	19.01.12 01:33 	5/5 	2.284,49 KB/s 	Saudi Arabia 	check
+80.120.60.190 	8080 	elite 	19.01.12 03:27 	5/5 	348,29 KB/s 	Austria 	check
+80.251.133.163 	3128 	elite 	19.01.12 05:38 	3/5 	170,66 KB/s 	Russian Federation 	check
+80.81.159.21 	80 	elite 	18.01.12 17:03 	1/5 	129,27 KB/s 	Lebanon 	check
+80.81.159.21 	80 	elite 	19.01.12 11:19 	1/5 	130,31 KB/s 	Lebanon 	check
+80.81.159.21 	8080 	elite 	19.01.12 07:11 	1/5 	130,31 KB/s 	Lebanon 	check
+81.183.213.50 	808 	elite 	19.01.12 00:53 	1/5 	169,20 KB/s 	Hungary 	check
+81.25.55.138 	3128 	elite 	19.01.12 08:38 	5/5 	122,57 KB/s 	Unknown 	check
+81.56.115.93 	3128 	elite 	19.01.12 01:58 	3/5 	201,82 KB/s 	France 	check
+82.116.218.62 	80 	elite 	19.01.12 00:57 	5/5 	672,16 KB/s 	Cyprus 	check
+82.116.220.1 	80 	elite 	18.01.12 14:25 	5/5 	1.710,72 KB/s 	Cyprus 	check
+82.116.220.10 	80 	elite 	19.01.12 06:57 	5/5 	1.767,20 KB/s 	Cyprus 	check
+82.116.220.2 	80 	elite 	18.01.12 23:10 	5/5 	1.194,72 KB/s 	Cyprus 	check
+82.116.221.87 	80 	elite 	19.01.12 00:51 	5/5 	1.190,73 KB/s 	Cyprus 	check
+82.165.143.89 	80 	elite 	19.01.12 09:09 	5/5 	648,68 KB/s 	Germany 	check
+82.200.55.142 	3128 	elite 	19.01.12 04:36 	3/5 	70,66 KB/s 	Russian Federation 	check
+83.149.126.37 	3128 	elite 	19.01.12 03:53 	4/5 	648,10 KB/s 	Netherlands 	check
+83.219.229.17 	3128 	elite 	19.01.12 05:49 	2/5 	135,20 KB/s 	Russian Federation 	check
+84.201.40.171 	8080 	elite 	18.01.12 23:43 	5/5 	683,03 KB/s 	Switzerland 	check
+84.33.192.124 	81 	elite 	18.01.12 18:47 	2/5 	552,24 KB/s 	Italy 	check
+84.33.192.124 	81 	elite 	19.01.12 04:48 	1/5 	420,52 KB/s 	Italy 	check
+85.132.122.138 	3128 	elite 	19.01.12 04:37 	3/5 	94,15 KB/s 	Azerbaijan 	check
+85.138.141.88 	8080 	elite 	18.01.12 14:25 	5/5 	36,65 KB/s 	Portugal 	check
+85.195.138.114 	80 	elite 	18.01.12 20:54 	5/5 	26,31 KB/s 	Unknown 	check
+85.195.138.114 	80 	elite 	18.01.12 23:44 	5/5 	25,36 KB/s 	Unknown 	check
+85.195.138.63 	80 	elite 	19.01.12 06:08 	5/5 	31,82 KB/s 	Unknown 	check
+85.195.138.82 	80 	elite 	19.01.12 06:19 	5/5 	29,11 KB/s 	Unknown 	check
+85.214.248.178 	8080 	elite 	18.01.12 13:34 	5/5 	2.319,28 KB/s 	Germany 	check
+85.214.84.104 	8080 	elite 	18.01.12 23:10 	5/5 	2.397,89 KB/s 	Germany 	check
+85.248.69.124 	80 	elite 	19.01.12 11:07 	5/5 	375,94 KB/s 	Slovakia 	check
+86.111.106.205 	808 	elite 	19.01.12 10:41 	4/5 	270,37 KB/s 	Unknown 	check
+87.251.177.168 	3128 	elite 	19.01.12 06:01 	5/5 	83,19 KB/s 	Unknown 	check
+89.179.74.135 	3128 	elite 	18.01.12 18:48 	4/5 	22,38 KB/s 	Unknown 	check
+89.200.179.116 	3128 	elite 	19.01.12 07:15 	5/5 	75,91 KB/s 	Unknown 	check
+89.218.94.139 	3128 	elite 	19.01.12 06:25 	3/5 	74,92 KB/s 	Unknown 	check
+91.214.48.38 	3128 	elite 	19.01.12 04:58 	5/5 	163,22 KB/s 	Ukraine 	check
+91.230.124.5 	80 	elite 	19.01.12 02:27 	5/5 	55,03 KB/s 	Unknown 	check
+91.93.132.210 	80 	elite 	19.01.12 01:56 	5/5 	187,52 KB/s 	Unknown 	check
+92.46.119.133 	3128 	elite 	19.01.12 03:24 	2/5 	77,33 KB/s 	Kazakhstan 	check
+92.50.133.26 	81 	elite 	19.01.12 04:24 	1/5 	79,46 KB/s 	Unknown 	check
+92.53.69.108 	3128 	elite 	19.01.12 10:41 	5/5 	164,18 KB/s 	Unknown 	check
+93.166.121.107 	8118 	elite 	19.01.12 03:31 	5/5 	207,56 KB/s 	Unknown 	check
+93.181.134.204 	8080 	elite 	19.01.12 05:24 	2/5 	63,65 KB/s 	Unknown 	check
+94.190.18.216 	3128 	elite 	19.01.12 06:37 	5/5 	97,11 KB/s 	Unknown 	check
+94.251.182.30 	8080 	elite 	18.01.12 23:04 	5/5 	224,91 KB/s 	Unknown 	check
+94.41.108.214 	3128 	elite 	19.01.12 10:06 	2/5 	30,01 KB/s 	Russian Federation 	check
+95.31.214.137 	3128 	elite 	19.01.12 06:18 	5/5 	177,33 KB/s 	Unknown 	check
+95.31.216.41 	8080 	elite 	19.01.12 08:41 	3/5 	130,05 KB/s 	Unknown 	check
+95.65.27.202 	3128 	elite 	19.01.12 04:55 	5/5 	161,02 KB/s 	Unknown 	check

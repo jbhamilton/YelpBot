@@ -1,0 +1,107 @@
+^@49765^@
+~*Hack-Ma-Tack Inn & Restaurant~*8131 Beebe Rd~*Cheboygan~*MI~*49721~*(231) 625-2919~*#NULL#~*#NULL#~*No~*Yes~*#NULL#~*Casual~*Yes~*No~*$$$~*No~*#NULL#~*Yes~*No~*#NULL#~*#NULL#~*Tue, Wed, Thu~*No~*Full Bar~*No~*No~*Average~*No~*Yes~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Grekas Tavern~*326 S First St~*Rogers City~*MI~*49779~*(989) 734-9029~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Bar 211~*M 211~*Onaway~*MI~*49765~*(989) 733-4104~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+^@49774^@
+~*Cozy Inn~*10015 W Lakeshore Dr~*Brimley~*MI~*49715~*(906) 248-5131~*#NULL#~*#NULL#~*Yes~*Yes~*Private Lot~*Casual~*Yes~*Yes~*$~*#NULL#~*#NULL#~*Yes~*#NULL#~*#NULL#~*#NULL#~*Fri~*#NULL#~*Full Bar~*Yes~*#NULL#~*Average~*#NULL#~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Bumpas'~*74 E Hodeck~*Cedarville~*MI~*49719~*(906) 484-3338~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Dondee Lanes~*3162 S Mackinac Trl~*Sault Sainte Marie~*MI~*49783~*(906) 632-2269~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+^@49780^@
+^@49781^@
+^@49782^@
+^@49783^@
+^@49788^@
+^@49791^@
+^@49795^@
+^@49799^@
+^@49801^@
+^@49802^@
+^@49805^@
+^@49806^@
+^@49808^@
+^@49812^@
+^@49814^@
+^@49815^@
+^@49816^@
+^@49817^@
+^@49819^@
+^@49820^@
+^@49821^@
+^@49822^@
+^@49826^@
+^@49827^@
+^@49831^@
+^@49834^@
+^@49835^@
+^@49836^@
+^@49838^@
+^@49839^@
+^@49762^@
+~*Trout Lake Tavern~*21409 S M 123~*Trout Lake~*MI~*49793~*(906) 569-3731~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Casual~*Yes~*No~*$~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Full Bar~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Toby's Buckhorn~*21433 S M 123~*Trout Lake~*MI~*49793~*(906) 569-0038~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Timber Charlie's Food & Spirits~*110 Newberry Ave~*Newberry~*MI~*49868~*(906) 293-3363~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*Casual~*Yes~*Yes~*$$~*#NULL#~*Yes~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Full Bar~*#NULL#~*No~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Shirley's Happy Hour~*10402 S Maple St~*Hulbert~*MI~*49748~*(906) 876-2555~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+^@49768^@
+~*Tahquamenon Falls Brewery & Pub~*M-123 Upper Falls Dr~*Paradise~*MI~*49768~*(906) 492-3300~*#NULL#~*#NULL#~*#NULL#~*Yes~*Private Lot~*#NULL#~*Yes~*#NULL#~*$$~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*#NULL#~*#NULL#~*Yes~*Full Bar~*Outdoor Area/ Patio Only~*No~*Loud~*No~*Yes~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Yukon Inn~*32277 W M 123~*Paradise~*MI~*49768~*(906) 492-3264~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Timber Charlie's Food & Spirits~*110 Newberry Ave~*Newberry~*MI~*49868~*(906) 293-3363~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*Casual~*Yes~*Yes~*$$~*#NULL#~*Yes~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Full Bar~*#NULL#~*No~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Frank & Jim's Restaurant~*2266 Tone Rd~*Kinross~*MI~*49752~*(906) 495-2266~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Shirley's Happy Hour~*10402 S Maple St~*Hulbert~*MI~*49748~*(906) 876-2555~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+^@49769^@
+~*Douglas Lake Bar & Steakhouse~*7314 Douglas Lake Rd~*Pellston~*MI~*49769~*(231) 539-8588~*#NULL#~*#NULL#~*Yes~*Yes~*Private Lot~*Casual~*Yes~*Yes~*$$$~*No~*#NULL#~*Yes~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Full Bar~*No~*#NULL#~*Average~*#NULL#~*No~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Riverside Bar & Grill~*6253 River St~*Alanson~*MI~*49706~*(231) 548-3575~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Clyde's Place~*6337 Paradise Trl~*Carp Lake~*MI~*49718~*(231) 537-2336~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Wequetsg Landowners Association Tennis Club~*2670 Pennsylvania Ave~*Harbor Springs~*MI~*49740~*(231) 526-9688~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Mackinaw Club~*8700 Mackinaw Club Dr~*Carp Lake~*MI~*49718~*(231) 537-4955~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Boyne Sporting Clays Club~*5484 Pleasantview Rd~*Harbor Springs~*MI~*49740~*(231) 526-7911~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+^@49770^@
+~*Don's Bar~*1041 N US Hwy 31~*Petoskey~*MI~*49770~*(231) 347-7030~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*$~*#NULL#~*#NULL#~*#NULL#~*No~*#NULL#~*Juke Box~*Fri, Sat~*#NULL#~*Full Bar~*No~*No~*Average~*Yes~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Noggin Room Pub~*Stafford's Perry Hotel~*Petoskey~*MI~*49770~*(231) 347-4000~*#NULL#~*#NULL#~*#NULL#~*Yes~*Street~*Casual~*Yes~*Yes~*$$~*No~*Yes~*Yes~*Yes~*Lunch, Dinner~*Live~*#NULL#~*Yes~*Full Bar~*No~*No~*Loud~*No~*Yes~*#NULL#~*Casual~*#NULL#~*#NULL#~*#NULL#
+~*Side Door~*1356 N US Hwy 31~*Petoskey~*MI~*49770~*(231) 347-9291~*#NULL#~*#NULL#~*#NULL#~*Yes~*Private Lot~*Casual~*Yes~*Yes~*$$~*#NULL#~*#NULL#~*Yes~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Full Bar~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Mitchell Street Pub~*426 E Mitchell St~*Petoskey~*MI~*49770~*(231) 347-1801~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*No~*No~*$$~*#NULL#~*#NULL#~*#NULL#~*No~*#NULL#~*Juke Box~*#NULL#~*Yes~*Full Bar~*#NULL#~*No~*#NULL#~*#NULL#~*Yes~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Knot Just A Bar~*820 Front St~*Petoskey~*MI~*49770~*(231) 439-2770~*#NULL#~*#NULL#~*No~*Yes~*Street, Private Lot~*Casual~*Yes~*Yes~*$$~*#NULL#~*Yes~*Yes~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Full Bar~*#NULL#~*#NULL#~*#NULL#~*No~*#NULL#~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Leo's Lounge~*434 E Mitchell St~*Petoskey~*MI~*49770~*(231) 347-2739~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*DJ, Karaoke, Juke Box~*Tue, Fri, Sat~*#NULL#~*Full Bar~*#NULL#~*#NULL#~*Average~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Garfield's~*1301 Spring St~*Petoskey~*MI~*49770~*(231) 347-0500~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*South Woods Family Restaurant~*1007 Spring St~*Petoskey~*MI~*49770~*(231) 487-1710~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Papa Lou's Pizza Pub and Grill~*317 E Lake St~*Petoskey~*MI~*49770~*(231) 348-3663~*#NULL#~*Mon-Sun 11 am - 2 am~*#NULL#~*Yes~*Street~*Casual~*Yes~*No~*$$~*#NULL#~*Yes~*Yes~*Yes~*Dinner~*Background~*Fri~*Yes~*Full Bar~*No~*#NULL#~*Average~*Yes~*Yes~*No~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Little Harbor Club~*130 Traverse St~*Harbor Springs~*MI~*49740~*(231) 526-2135~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Fri, Sat~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Junction Inn~*4472 M 75 N~*Walloon Lake~*MI~*49796~*(231) 535-2151~*#NULL#~*#NULL#~*No~*No~*#NULL#~*Casual~*Yes~*No~*$~*No~*Yes~*Yes~*No~*#NULL#~*#NULL#~*Fri, Sat~*#NULL#~*Full Bar~*Yes~*No~*Average~*Yes~*Yes~*#NULL#~*#NULL#~*#NULL#~*No~*No
+~*Cooper's Pub & Grill~*220 S Lake St~*Boyne City~*MI~*49712~*(231) 582-2271~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*Casual~*#NULL#~*Yes~*$$~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Background~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Bay Harbor Equestrian Club~*5251 Charlevoix Ave~*Petoskey~*MI~*49770~*(231) 439-7100~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Riverside Bar & Grill~*6253 River St~*Alanson~*MI~*49706~*(231) 548-3575~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Wequetsg Landowners Association Tennis Club~*2670 Pennsylvania Ave~*Harbor Springs~*MI~*49740~*(231) 526-9688~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Eagle's Lodge Foe 1583~*106 River St~*Boyne City~*MI~*49712~*(231) 582-6904~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Boyne Sporting Clays Club~*5484 Pleasantview Rd~*Harbor Springs~*MI~*49740~*(231) 526-7911~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+^@49776^@
+~*Deer Hunt Inc~*2726 Petersville Rd~*Rogers City~*MI~*49779~*(989) 734-2107~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+^@49777^@
+^@49779^@
+~*Grekas Tavern~*326 S First St~*Rogers City~*MI~*49779~*(989) 734-9029~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Deer Hunt Inc~*2726 Petersville Rd~*Rogers City~*MI~*49779~*(989) 734-2107~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Bar 211~*M 211~*Onaway~*MI~*49765~*(989) 733-4104~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Stoney Creek Restaurant & Lounge~*19011 M 68~*Onaway~*MI~*49765~*(989) 733-6941~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+^@49793^@
+~*Trout Lake Tavern~*21409 S M 123~*Trout Lake~*MI~*49793~*(906) 569-3731~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Casual~*Yes~*No~*$~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Full Bar~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Toby's Buckhorn~*21433 S M 123~*Trout Lake~*MI~*49793~*(906) 569-0038~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+^@49807^@
+~*Stardust Lounge~*2116 Ludington St~*Escanaba~*MI~*49829~*(906) 786-0913~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+^@49818^@
+~*Stardust Lounge~*2116 Ludington St~*Escanaba~*MI~*49829~*(906) 786-0913~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+^@49825^@
+^@49833^@
+^@49837^@
+^@49766^@
+~*Smokey's Bar~*5982 N Hubbard Lake Rd~*Spruce~*MI~*48762~*(989) 727-2112~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Tue, Fri, Sat~*#NULL#~*Full Bar~*#NULL#~*No~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Hubbard Lake Tavern~*7002 Hubert Rd~*Hubbard Lake~*MI~*49747~*(989) 727-3560~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*#NULL#~*Yes~*#NULL#~*$~*#NULL#~*#NULL#~*#NULL#~*No~*#NULL#~*Juke Box~*Fri, Thu, Sat~*Yes~*Full Bar~*No~*No~*Average~*No~*Yes~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Veterans of Foreign Wars Post 2496~*2900 Connon St~*Alpena~*MI~*49707~*(989) 354-8021~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+^@49796^@
+~*Junction Inn~*4472 M 75 N~*Walloon Lake~*MI~*49796~*(231) 535-2151~*#NULL#~*#NULL#~*No~*No~*#NULL#~*Casual~*Yes~*No~*$~*No~*Yes~*Yes~*No~*#NULL#~*#NULL#~*Fri, Sat~*#NULL#~*Full Bar~*Yes~*No~*Average~*Yes~*Yes~*#NULL#~*#NULL#~*#NULL#~*No~*No
+^@49764^@
+^@49775^@
+~*Seabiscuit Cafe~*#NULL#~*Mackinac Island~*MI~*49757~*(906) 847-3611~*#NULL#~*#NULL#~*Yes~*Yes~*#NULL#~*Casual~*Yes~*Yes~*$$~*No~*Yes~*Yes~*No~*Lunch, Dinner~*Background~*#NULL#~*#NULL#~*Full Bar~*No~*No~*Average~*No~*Yes~*Yes~*#NULL#~*#NULL#~*No~*No
+~*The Yankee Rebel Tavern~*1493 Astor St~*Mackinac Island~*MI~*49757~*(906) 847-6249~*#NULL#~*#NULL#~*Yes~*Yes~*#NULL#~*Casual~*Yes~*Yes~*$$~*No~*Yes~*Yes~*No~*Lunch, Dinner~*#NULL#~*Mon, Tue, Wed~*#NULL#~*Full Bar~*No~*Yes~*Quiet~*No~*No~*Yes~*Casual~*#NULL#~*No~*No
+~*Mustang Lounge~*8 Astor St~*Mackinac Island~*MI~*49757~*(906) 847-9916~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*#NULL#~*Yes~*#NULL#~*$$~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Full Bar~*#NULL#~*No~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Pink Pony Bar & Grill~*#NULL#~*Mackinac Island~*MI~*49757~*(866) 847-6575~*#NULL#~*Mon-Sat 11 am - 2 amSun 12 pm - 2 am~*Yes~*Yes~*#NULL#~*Casual~*Yes~*Yes~*$$~*No~*Yes~*Yes~*Yes~*Lunch, Dinner~*Live~*Tue, Wed, Thu~*Yes~*Full Bar~*Yes~*No~*Very Loud~*Yes~*Yes~*Yes~*Casual~*#NULL#~*#NULL#~*#NULL#
+~*Mulligan's~*320 North Main St~*Cheboygan~*MI~*49721~*(231) 627-2459~*#NULL#~*Mon-Thu 11 am - 10 pmFri-Sat 11 am - 11 pm~*#NULL#~*#NULL#~*#NULL#~*Casual~*#NULL#~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Live~*#NULL#~*#NULL#~*Full Bar~*No~*Yes~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+~*Patrick Sinclair's Irish Pub~*7304 Main St~*Mackinac Island~*MI~*49757~*(906) 847-8255~*#NULL#~*#NULL#~*No~*Yes~*#NULL#~*Casual~*Yes~*No~*$$~*No~*Yes~*Yes~*No~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Full Bar~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*#NULL#~*Yes~*#NULL#~*#NULL#~*#NULL#~*#NULL#
+^@49829^@

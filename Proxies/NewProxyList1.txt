@@ -1,0 +1,300 @@
+1 minute 	217.196.113.81 	8080 	flag Czech Republic 	
+	
+	HTTPS 	High +KA
+2 minutes 	124.124.110.204 	3128 	flag India 	
+	
+	HTTPS 	High +KA
+2 minutes 	89.36.26.64 	8118 	flag Netherlands 	
+	
+	HTTPS 	High +KA
+3 minutes 	203.244.221.3 	8080 	flag Korea, Republic of 	
+	
+	HTTPS 	High +KA
+4 minutes 	202.103.215.203 	80 	flag China 	
+	
+	HTTPS 	High +KA
+5 minutes 	220.243.7.126 	3128 	flag China 	
+	
+	HTTPS 	High +KA
+6 minutes 	218.104.55.28 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+6 minutes 	182.163.72.148 	8080 	flag Japan 	
+	
+	HTTP 	High +KA
+6 minutes 	85.132.122.138 	3128 	flag Azerbaijan 	
+	
+	HTTPS 	High +KA
+7 minutes 	71.238.32.52 	1143 	flag United States 	
+	
+	socks4/5 	High +KA
+9 minutes 	88.85.125.78 	8080 	flag Macedonia 	
+	
+	HTTPS 	High +KA
+10 minutes 	218.25.249.185 	80 	flag China 	
+	
+	HTTP 	High +KA
+12 minutes 	78.30.229.65 	808 	flag Ukraine 	
+	
+	HTTP 	High +KA
+16 minutes 	89.207.68.10 	1080 	flag Russian Federation 	
+	
+	socks4/5 	High +KA
+16 minutes 	178.49.100.138 	3128 	flag Russian Federation 	
+	
+	HTTPS 	High +KA
+17 minutes 	210.51.23.136 	8118 	flag China 	
+	
+	HTTPS 	High +KA
+18 minutes 	198.164.129.13 	80 	flag Canada 	
+	
+	HTTPS 	High +KA
+19 minutes 	113.161.77.184 	8080 	flag Viet Nam 	
+	
+	HTTPS 	High +KA
+20 minutes 	218.92.29.29 	8080 	flag China 	
+	
+	HTTP 	High
+23 minutes 	218.241.181.29 	3128 	flag China 	
+	
+	HTTPS 	High +KA
+24 minutes 	222.52.99.131 	8081 	flag China 	
+	
+	HTTPS 	High +KA
+24 minutes 	116.55.19.96 	808 	flag China 	
+	
+	HTTPS 	High +KA
+26 minutes 	95.128.184.155 	8080 	flag Macedonia 	
+	
+	HTTPS 	High +KA
+26 minutes 	88.41.153.22 	80 	flag Italy 	
+	
+	HTTPS 	High +KA
+29 minutes 	221.203.79.101 	80 	flag China 	
+	
+	HTTP 	High +KA
+32 minutes 	159.148.213.229 	3128 	flag Latvia 	
+	
+	HTTPS 	High +KA
+33 minutes 	216.115.8.130 	80 	flag United States 	
+	
+	HTTPS 	High +KA
+34 minutes 	219.145.93.110 	8080 	flag China 	
+	
+	HTTPS 	High +KA
+34 minutes 	113.55.0.222 	3128 	flag China 	
+	
+	HTTPS 	High +KA
+36 minutes 	202.164.56.18 	6588 	flag India 	
+	
+	HTTP 	High +KA
+36 minutes 	116.90.87.10 	8080 	flag China 	
+	
+	HTTPS 	High +KA
+38 minutes 	41.160.19.242 	81 	flag South Africa 	
+	
+	HTTPS 	High +KA
+40 minutes 	80.63.56.146 	8118 	flag Denmark 	
+	
+	HTTPS 	High +KA
+40 minutes 	67.227.162.193 	3128 	flag United States 	
+	
+	HTTPS 	High +KA
+40 minutes 	49.212.77.169 	3128 	flag Japan 	
+	
+	HTTPS 	High +KA
+42 minutes 	60.11.62.176 	8088 	flag China 	
+	
+	HTTP 	High +KA
+43 minutes 	173.224.120.54 	3128 	flag United States 	
+	
+	HTTPS 	High +KA
+45 minutes 	80.167.238.77 	1080 	flag Denmark 	
+	
+	socks4/5 	High +KA
+46 minutes 	92.47.180.18 	3128 	flag Kazakhstan 	
+	
+	HTTP 	High +KA
+46 minutes 	217.115.112.38 	1080 	flag Ireland 	
+	
+	socks4/5 	High +KA
+46 minutes 	200.196.234.30 	8080 	flag Brazil 	
+	
+	HTTPS 	High +KA
+46 minutes 	174.54.243.21 	1644 	flag United States 	
+	
+	socks4/5 	High +KA
+46 minutes 	195.137.162.147 	3128 	flag Poland 	
+	
+	HTTPS 	High +KA
+48 minutes 	1.227.196.123 	8080 	flag Korea, Republic of 	
+	
+	HTTPS 	High +KA
+48 minutes 	202.107.44.108 	8080 	flag China 	
+	
+	HTTPS 	High +KA
+48 minutes 	150.140.184.110 	3128 	flag Greece 	
+	
+	HTTPS 	High +KA
+48 minutes 	80.63.56.147 	1080 	flag Denmark 	
+	
+	socks4/5 	High +KA
+49 minutes 	190.66.17.53 	3128 	flag Colombia 	
+	
+	HTTP 	High
+51 minutes 	85.214.71.220 	3128 	flag Germany 	
+	
+	HTTPS 	High +KA
+51 minutes 	24.184.59.2 	1755 	flag United States 	
+	
+	socks4/5 	High +KA
+52 minutes 	187.103.8.253 	3128 	flag Brazil 	
+	
+	HTTPS 	High +KA
+52 minutes 	190.85.86.147 	8080 	flag Colombia 	
+	
+	HTTPS 	High +KA
+54 minutes 	200.150.66.226 	3128 	flag Brazil 	
+	
+	HTTPS 	High +KA
+55 minutes 	221.231.114.147 	8080 	flag China 	
+	
+	HTTPS 	High +KA
+55 minutes 	220.225.236.58 	3128 	flag India 	
+	
+	HTTPS 	High +KA
+55 minutes 	211.140.189.244 	80 	flag China 	
+	
+	HTTP 	High +KA
+55 minutes 	69.114.90.139 	1413 	flag United States 	
+	
+	socks4/5 	High +KA
+56 minutes 	180.96.19.25 	8080 	flag China 	
+	
+	HTTPS 	High +KA
+1 hour and 1 minute 	80.253.54.66 	8080 	flag Bulgaria 	
+	
+	HTTPS 	High +KA
+1 hour and 3 minutes 	83.103.156.22 	8080 	flag Romania 	
+	
+	HTTPS 	High +KA
+1 hour and 3 minutes 	24.100.137.18 	8080 	flag United States 	
+	
+	HTTPS 	High +KA
+1 hour and 3 minutes 	92.99.184.41 	8118 	flag United Arab Emirates 	
+	
+	HTTPS 	High +KA
+1 hour and 3 minutes 	211.142.24.122 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+1 hour and 4 minutes 	69.105.24.201 	1810 	flag United States 	
+	
+	socks4/5 	High +KA
+1 hour and 4 minutes 	184.154.55.239 	80 	flag United States 	
+	
+	HTTPS 	High +KA
+1 hour and 6 minutes 	85.131.163.219 	3128 	flag Germany 	
+	
+	HTTPS 	High +KA
+1 hour and 10 minutes 	188.231.181.234 	54321 	flag Ukraine 	
+	
+	HTTPS 	High +KA
+1 hour and 11 minutes 	95.65.27.202 	3128 	flag Moldova, Republic of 	
+	
+	HTTPS 	High +KA
+1 hour and 13 minutes 	117.34.7.21 	3128 	flag China 	
+	
+	HTTPS 	High +KA
+1 hour and 15 minutes 	187.3.156.136 	3128 	flag Brazil 	
+	
+	HTTPS 	High +KA
+1 hour and 15 minutes 	84.41.108.74 	8080 	flag Slovenia 	
+	
+	HTTPS 	High +KA
+1 hour and 16 minutes 	46.4.7.198 	3128 	flag Germany 	
+	
+	HTTPS 	High +KA
+1 hour and 17 minutes 	78.189.105.157 	8088 	flag Turkey 	
+	
+	HTTP 	High +KA
+1 hour and 18 minutes 	93.166.121.107 	8118 	flag Denmark 	
+	
+	HTTP 	High +KA
+1 hour and 19 minutes 	189.50.123.42 	3128 	flag Brazil 	
+	
+	HTTPS 	High +KA
+1 hour and 19 minutes 	69.160.84.162 	3128 	flag United States 	
+	
+	HTTPS 	High +KA
+1 hour and 23 minutes 	211.76.97.150 	80 	flag Taiwan, Republic of China 	
+	
+	HTTPS 	High +KA
+1 hour and 24 minutes 	183.178.101.190 	3128 	flag Hong Kong 	
+	
+	HTTPS 	High +KA
+1 hour and 25 minutes 	221.231.114.147 	3128 	flag China 	
+	
+	HTTPS 	High +KA
+1 hour and 26 minutes 	84.204.195.156 	3128 	flag Russian Federation 	
+	
+	HTTPS 	High +KA
+1 hour and 26 minutes 	220.194.59.162 	80 	flag China 	
+	
+	HTTP 	High +KA
+1 hour and 29 minutes 	210.19.8.218 	8080 	flag Malaysia 	
+	
+	HTTPS 	High +KA
+1 hour and 29 minutes 	189.84.227.66 	3128 	flag Brazil 	
+	
+	HTTPS 	High +KA
+1 hour and 32 minutes 	189.112.39.153 	3128 	flag Brazil 	
+	
+	HTTPS 	High +KA
+1 hour and 33 minutes 	58.221.42.119 	808 	flag China 	
+	
+	HTTPS 	High +KA
+1 hour and 35 minutes 	122.169.108.205 	808 	flag India 	
+	
+	HTTPS 	High +KA
+1 hour and 36 minutes 	82.222.49.65 	8080 	flag Turkey 	
+	
+	HTTPS 	High +KA
+1 hour and 36 minutes 	222.238.156.249 	80 	flag Korea, Republic of 	
+	
+	HTTP 	High +KA
+1 hour and 38 minutes 	87.106.143.132 	3128 	flag Germany 	
+	
+	HTTPS 	High +KA
+1 hour and 40 minutes 	113.230.76.234 	443 	flag China 	
+	
+	HTTP 	High +KA
+1 hour and 40 minutes 	85.195.96.141 	8080 	flag Germany 	
+	
+	HTTPS 	High +KA
+1 hour and 41 minutes 	85.25.151.125 	3128 	flag Germany 	
+	
+	HTTPS 	High +KA
+1 hour and 41 minutes 	64.34.165.39 	8118 	flag Russian Federation 	
+	
+	HTTPS 	High +KA
+1 hour and 42 minutes 	159.148.213.225 	3128 	flag Latvia 	
+	
+	HTTPS 	High +KA
+1 hour and 43 minutes 	212.182.64.86 	3128 	flag Poland 	
+	
+	HTTPS 	High +KA
+1 hour and 44 minutes 	202.91.235.165 	80 	flag China 	
+	
+	HTTPS 	High +KA
+1 hour and 46 minutes 	221.5.71.188 	3128 	flag China 	
+	
+	HTTPS 	High +KA
+1 hour and 48 minutes 	213.239.197.104 	3128 	flag Germany 	
+	
+	HTTPS 	High +KA
+1 hour and 48 minutes 	119.246.22.119 	8909 	flag Hong Kong 	
+	
+	HTTP 	High +KA
+1 hour and 48 minutes 	50.22.206.188 	8080 	flag United States 	
+	
+	HTTPS 	High +KA
